@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR == 5' /etc/iacta
+awk 'NR == 5' iacta
